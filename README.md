@@ -1,9 +1,9 @@
 # [July-LeetCoding-Challenge](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)
 ## Problem List:
 - Day1: [Arranging Coins](https://leetcode.com/problems/arranging-coins/) (Easy)
+- Day2: [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) (Easy)
 
 
-- Day2: [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) (Easy)
 - Day3: [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) (Easy)
 - Day4: [Reverse String](https://leetcode.com/problems/reverse-string/) (Easy)
 - Day5: [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) (Medium)
