@@ -3,8 +3,8 @@
 - Day1: [Arranging Coins](https://leetcode.com/problems/arranging-coins/) (Easy)
 - Day2: [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) (Easy)
 - Day3: [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) (Medium)
+- Day4: [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) (Medium)
 
-- Day4: [Reverse String](https://leetcode.com/problems/reverse-string/) (Easy)
 - Day5: [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) (Medium)
 - Day6: [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) (Medium)
 - Day7: [Coin Change 2](https://leetcode.com/problems/coin-change-2/) (Medium)
