@@ -5,8 +5,8 @@
 - Day3: [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) (Medium)
 - Day4: [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) (Medium)
 - Day5: [Hamming Distance](https://leetcode.com/problems/hamming-distance/) (Easy)
+- Day6: [Plus One](https://leetcode.com/problems/plus-one/) (Easy)
 
-- Day6: [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) (Medium)
 - Day7: [Coin Change 2](https://leetcode.com/problems/coin-change-2/) (Medium)
 - Day8: [Power of Two](https://leetcode.com/problems/power-of-two/) (Easy)
 - Day9: [Is Subsequence](https://leetcode.com/problems/is-subsequence/) (Easy)
