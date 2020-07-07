@@ -6,8 +6,8 @@
 - Day4: [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) (Medium)
 - Day5: [Hamming Distance](https://leetcode.com/problems/hamming-distance/) (Easy)
 - Day6: [Plus One](https://leetcode.com/problems/plus-one/) (Easy)
+- Day7: [Island Perimeter](https://leetcode.com/problems/island-perimeter/) (Easy)
 
-- Day7: [Coin Change 2](https://leetcode.com/problems/coin-change-2/) (Medium)
 - Day8: [Power of Two](https://leetcode.com/problems/power-of-two/) (Easy)
 - Day9: [Is Subsequence](https://leetcode.com/problems/is-subsequence/) (Easy)
 - Day10: [Search Insert Position](https://leetcode.com/problems/search-insert-position/) (Easy)
