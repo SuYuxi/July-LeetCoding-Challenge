@@ -7,8 +7,8 @@
 - Day5: [Hamming Distance](https://leetcode.com/problems/hamming-distance/) (Easy)
 - Day6: [Plus One](https://leetcode.com/problems/plus-one/) (Easy)
 - Day7: [Island Perimeter](https://leetcode.com/problems/island-perimeter/) (Easy)
+- Day8: [3Sum](https://leetcode.com/problems/3sum/) (Medium)
 
-- Day8: [Power of Two](https://leetcode.com/problems/power-of-two/) (Easy)
 - Day9: [Is Subsequence](https://leetcode.com/problems/is-subsequence/) (Easy)
 - Day10: [Search Insert Position](https://leetcode.com/problems/search-insert-position/) (Easy)
 - Day11: [Sort Colors](https://leetcode.com/problems/sort-colors/) (Medium)
