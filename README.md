@@ -8,8 +8,8 @@
 - Day6: [Plus One](https://leetcode.com/problems/plus-one/) (Easy)
 - Day7: [Island Perimeter](https://leetcode.com/problems/island-perimeter/) (Easy)
 - Day8: [3Sum](https://leetcode.com/problems/3sum/) (Medium)
+- Day9: [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) (Medium)
 
-- Day9: [Is Subsequence](https://leetcode.com/problems/is-subsequence/) (Easy)
 - Day10: [Search Insert Position](https://leetcode.com/problems/search-insert-position/) (Easy)
 - Day11: [Sort Colors](https://leetcode.com/problems/sort-colors/) (Medium)
 - Day12: [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) (Medium)
