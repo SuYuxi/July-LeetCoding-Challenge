@@ -12,6 +12,7 @@ public:
 class Solution {
 public:
     Node* flatten(Node* head) {
+        if(!head) return head;
         vector<Node*> stack;
         Node* node = head;
         while(node || !stack.empty())
