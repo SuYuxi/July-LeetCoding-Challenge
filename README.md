@@ -12,8 +12,8 @@
 - Day10: [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) (Medium)
 - Day11: [Subsets](https://leetcode.com/problems/subsets/) (Medium)
 - Day12: [Reverse Bits](https://leetcode.com/problems/reverse-bits/) (Easy)
+- Day13: [Same Tree](https://leetcode.com/problems/same-tree/) (Easy)
 
-- Day13: [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) (Medium)
 - Day14: [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) (Medium)
 - Day15: [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) (Easy)
 - Day16: [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) (Medium)
