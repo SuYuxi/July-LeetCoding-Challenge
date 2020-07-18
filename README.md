@@ -17,8 +17,8 @@
 - Day15: [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) (Medium)
 - Day16: [Pow(x, n)](https://leetcode.com/problems/powx-n/) (Medium)
 - Day17: [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (Medium)
+- Day18: [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) (Medium)
 
-- Day18: [H-Index II](https://leetcode.com/problems/h-index-ii/) (Medium)
 - Day19: [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) (Hard)
 - Day20: [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) (Medium)
 - Day21: [Dungeon Game](https://leetcode.com/problems/dungeon-game/) (Hard)
