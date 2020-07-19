@@ -18,8 +18,8 @@
 - Day16: [Pow(x, n)](https://leetcode.com/problems/powx-n/) (Medium)
 - Day17: [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (Medium)
 - Day18: [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) (Medium)
+- Day19: [Add Binary](https://leetcode.com/problems/add-binary/) (Easy)
 
-- Day19: [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) (Hard)
 - Day20: [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) (Medium)
 - Day21: [Dungeon Game](https://leetcode.com/problems/dungeon-game/) (Hard)
 - Day22: [Single Number II](https://leetcode.com/problems/single-number-ii/) (Medium)
