@@ -20,8 +20,8 @@
 - Day18: [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) (Medium)
 - Day19: [Add Binary](https://leetcode.com/problems/add-binary/) (Easy)
 - Day20: [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) (Easy)
+- Day21: [Word Search](https://leetcode.com/problems/word-search/) (Medium)
 
-- Day21: [Dungeon Game](https://leetcode.com/problems/dungeon-game/) (Hard)
 - Day22: [Single Number II](https://leetcode.com/problems/single-number-ii/) (Medium)
 - Day23: [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) (Medium)
 - Day24: [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) (Medium)
