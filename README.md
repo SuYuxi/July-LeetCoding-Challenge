@@ -23,8 +23,8 @@
 - Day21: [Word Search](https://leetcode.com/problems/word-search/) (Medium)
 - Day22: [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) (Medium)
 - Day23: [Single Number III](https://leetcode.com/problems/single-number-iii/) (Medium)
+- Day24: [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) (Medium)
 
-- Day24: [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) (Medium)
 - Day25: [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) (Medium)
 - Day26: [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) (Medium)
 - Day27: [Perfect Squares](https://leetcode.com/problems/perfect-squares/) (Medium)
