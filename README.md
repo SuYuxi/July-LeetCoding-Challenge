@@ -22,8 +22,8 @@
 - Day20: [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) (Easy)
 - Day21: [Word Search](https://leetcode.com/problems/word-search/) (Medium)
 - Day22: [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) (Medium)
+- Day23: [Single Number III](https://leetcode.com/problems/single-number-iii/) (Medium)
 
-- Day23: [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) (Medium)
 - Day24: [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) (Medium)
 - Day25: [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) (Medium)
 - Day26: [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) (Medium)
