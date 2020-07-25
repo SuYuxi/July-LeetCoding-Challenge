@@ -9,13 +9,13 @@ public:
             {
                 right = mid;
             }
-            else if(nums[mid] == nums[right])
+            else if(nums[mid] > nums[right])
             {
-                right -= 1;
+                left = mid + 1;          
             }
             else
             {
-                left = mid + 1;
+                right -= 1;
             }
         }
         return nums[left];
