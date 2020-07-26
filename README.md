@@ -25,8 +25,8 @@
 - Day23: [Single Number III](https://leetcode.com/problems/single-number-iii/) (Medium)
 - Day24: [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) (Medium)
 - Day25: [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) (Hard)
+- Day26: [Add Digits](https://leetcode.com/problems/add-digits/) (Easy)
 
-- Day26: [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) (Medium)
 - Day27: [Perfect Squares](https://leetcode.com/problems/perfect-squares/) (Medium)
 - Day28: [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) (Medium)
 - Day29: [Unique Paths](https://leetcode.com/problems/unique-paths/) (Medium)
