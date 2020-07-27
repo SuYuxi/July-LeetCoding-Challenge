@@ -26,8 +26,8 @@
 - Day24: [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) (Medium)
 - Day25: [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) (Hard)
 - Day26: [Add Digits](https://leetcode.com/problems/add-digits/) (Easy)
+- Day27: [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) (Medium)
 
-- Day27: [Perfect Squares](https://leetcode.com/problems/perfect-squares/) (Medium)
 - Day28: [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) (Medium)
 - Day29: [Unique Paths](https://leetcode.com/problems/unique-paths/) (Medium)
 - Day30: [Word Search II](https://leetcode.com/problems/word-search-ii/) (Hard)
