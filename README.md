@@ -28,6 +28,6 @@
 - Day26: [Add Digits](https://leetcode.com/problems/add-digits/) (Easy)
 - Day27: [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) (Medium)
 - Day28: [Task Scheduler](https://leetcode.com/problems/task-scheduler/) (Medium)
+- Day29: [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) (Medium)
 
-- Day29: [Unique Paths](https://leetcode.com/problems/unique-paths/) (Medium)
 - Day30: [Word Search II](https://leetcode.com/problems/word-search-ii/) (Hard)
