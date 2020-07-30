@@ -6,9 +6,11 @@ public:
         int preSell = 0;
         for(int& price : prices)
         {
-            buy = max(buy, preSell - price);
-            preSell = sell;
+            int temp = sell;
             sell = max(sell, buy + price);
+            buy = max(buy, preSell - price);
+            preSell = temp;
+
             //buy[i] = max(buy[i - 1], sell[i - 2] - prices[i]);
             //sell[i] = max(sell[i - 1], buy[i - 1] + prices[i]);
         }
