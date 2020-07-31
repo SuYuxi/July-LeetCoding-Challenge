@@ -30,4 +30,4 @@
 - Day28: [Task Scheduler](https://leetcode.com/problems/task-scheduler/) (Medium)
 - Day29: [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) (Medium)
 - Day30: [Word Break II](https://leetcode.com/problems/word-break-ii/) (Hard)
-- Day30: [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) (Easy)
+- Day31: [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) (Easy)
